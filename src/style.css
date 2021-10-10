@@ -1,1 +1,16 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#cards {
+  display: none;
+}
+.card {
+  margin: 2rem;
+}
+
+.suite-top {
+  padding-bottom: 20px;
+}
+
+.suite-bottom {
+  padding-top: 20px;
+}
